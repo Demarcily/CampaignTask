@@ -7,11 +7,8 @@ body {
 }
 
 main {
-  margin: 0 auto;
-  width: 80%;
   height: 70em;
   background-color: #f5e5e4;
-  border: 1px solid red;
   padding: 1em;
   
 }
@@ -23,7 +20,7 @@ header {
 
 }
 
-h1 {
+h1, h2 {
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -33,4 +30,26 @@ footer {
   border: 1px solid red;
   height: 5em;
   
+}
+
+div.special {
+  border: 1px solid red;
+  padding: 5px;
+  margin-bottom: 2rem;
+  
+}
+
+div {
+  margin: 0 auto;
+  width: 80%
+}
+
+p {
+  margin-top: 0.1rem;
+  margin-bottom: 2rem;
+}
+
+.test {
+  display: flex;
+
 }
