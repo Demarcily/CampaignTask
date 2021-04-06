@@ -17,6 +17,7 @@ header {
   display: flex;
   flex-direction: column;
   color: #E4E3E4;
+  width: 100%;
 }
 
 main {
