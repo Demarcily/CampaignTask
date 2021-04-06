@@ -16,6 +16,7 @@ header {
   padding: 10px 0;
   display: flex;
   flex-direction: column;
+  color: #E4E3E4;
 }
 
 main {
@@ -61,9 +62,19 @@ li {
   margin: 0 5px;
 }
 
+header > div > h1, h3 {
+  display: inline;
+  padding: 5px ;
+  background-color: #97080b;
+  border-radius: 15%;
+  
+}
+
+
 a:link, a:visited {
-  color:black;
-  background-color: #D0282B;
+  color:#E4E3E4;
+  background-color: #97080b;
+  border: 1px solid #D0282B;
   text-decoration: none;
   padding: 10px 40px;
   display: inline-block;
@@ -71,7 +82,7 @@ a:link, a:visited {
 
 a:hover {
   cursor: pointer;
-  background-color: rgb(141, 7, 7);
+  background-color: rgb(126, 6, 6);
   text-decoration: underline;
 }
   
