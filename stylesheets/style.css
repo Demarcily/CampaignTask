@@ -2,6 +2,10 @@ body, html {
   height: 100%;
 }
 
+* {
+  padding: 0;
+}
+
 body {
   margin: 0;
   background-color: #D0282B;
@@ -49,7 +53,6 @@ p {
 ul {
   display: flex;
   justify-content: center;
-  padding-inline-start: 0;
 }
 
 li {
