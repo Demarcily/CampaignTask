@@ -1,4 +1,4 @@
-body, html, main {
+body, html {
   height: 100%;
 }
 
@@ -6,11 +6,19 @@ body {
   margin: 0;
   background-color: #D0282B;
 }
+header {
+  background-color: #AF171B;
+  border-bottom: 1px solid #D0282B;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
 
 main {
   background-color: #0B090A;
   padding: 1em;
   color: #E4E3E4;
+  font-size: 16px;
   margin: 0 auto;
   width: 80%
 }
@@ -20,12 +28,7 @@ div {
   width: 90%;
 }
 
-header {
-  background-color: #AF171B;
-  border-bottom: 1px solid #D0282B;
-  padding: 5px;
 
-}
 
 
 h1, h2 {
@@ -43,4 +46,15 @@ footer {
 p {
   margin-top: 0.1rem;
   margin-bottom: 2rem;
+}
+
+.mt0 {
+  margin-top: 0;
+}
+.mb0 {
+  margin-bottom: 0;
+}
+
+.center {
+  text-align: center;
 }
