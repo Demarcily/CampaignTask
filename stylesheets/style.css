@@ -1,24 +1,32 @@
-body, html {
+body, html, main {
   height: 100%;
 }
 
 body {
   margin: 0;
+  background-color: #D0282B;
 }
 
 main {
-  height: 70em;
-  background-color: #f5e5e4;
+  background-color: #0B090A;
   padding: 1em;
-  
+  color: #E4E3E4;
+  margin: 0 auto;
+  width: 80%
+}
+
+div {
+  margin: 0 auto;
+  width: 90%;
 }
 
 header {
-  background-color: #f5e5e4;
-  border: 1px solid red;
+  background-color: #AF171B;
+  border-bottom: 1px solid #D0282B;
   padding: 5px;
 
 }
+
 
 h1, h2 {
   margin-top: 0;
@@ -26,30 +34,13 @@ h1, h2 {
 }
 
 footer {
-  background-color: #f5e5e4;
-  border: 1px solid red;
+  background-color: #AF171B;
+  border-top: 1px solid #D0282B;
   height: 5em;
   
-}
-
-div.special {
-  border: 1px solid red;
-  padding: 5px;
-  margin-bottom: 2rem;
-  
-}
-
-div {
-  margin: 0 auto;
-  width: 80%
 }
 
 p {
   margin-top: 0.1rem;
   margin-bottom: 2rem;
-}
-
-.test {
-  display: flex;
-
 }
