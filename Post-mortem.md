@@ -1,23 +1,31 @@
-Titel
-Författare och datum.
+# Campaign Task
 
-Inledning
-Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande. Vad är det för något du har utvecklat. Vilket problem har ditt projekt syftat på att lösa.
+Liam Murphy - 20201-04-06
 
-Bakgrund
-I bakgrunden redogör du för projektets delar, här sammanfattar du din arbetsprocess. Beskriv den teknik du har använt och motivera valet av den. Berätta om ditt planeringsarbete. Försök att inte vara värderande, utan redogör för projektet, hur arbetet gick och dina erfarenheterna skriver du om i de följande delarna.
+## Indledning
 
-Berätta om hur du har testat din produkt.
+Jag skulle göra en sida för en kampanj, lämndade in uppgiften väldigt, väldigt sent och jag stötte inte på några stora problem om man inte räknar med att jag inte gjorde något förra lektionern.
 
-I bakgrunden kan du med fördel inkludera bilder som beskriver och förklarar projektet.
+Enda problemet som jag behövde söka omkring lite var att skapa en knapp för länken där hela knappen är en länk och bara inte texten vilket jag lyckades göra efter ett litet tag.
 
-Positiva erfarenheter
-Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du kunna upprepa framgången i projektet.
+## Bakgrund
 
-Negativa erfarenheter
-Här beskriver du det som du anser har gått mindre bra med ditt projekt och analyserar hur du kan undvika detta i framtida projekt.
+Första delen av uppgiften så plannerade vi i grupp. Färger, icon, titel, ämne och slogan. Vi gjorde också en figma project men jag använde inte den. Vi använde figma för att få en klarare bild av vad vi ville ha. kommer inte ihåg mer förutom att vi sedan arbetade enkilt och då så använde jag samma verktyg som alla andra, visual studio code, Wave, Validator.nu, jigsaw för css och github och sen blev jag klart med projektet långt efter deadlinen.
 
-Sammanfattning
-Här redovisar du dina slutsatser, erfarenheter och lärdomar. Reflektera över din produkt och dess/dina utvecklingsmöjligheter.
+Använde Chrome och Microsoft edge för att see om det fungerade vilket det gjorde.
 
-Vad kan vidareutvecklas och finns det utrymme att bygga vidare på projektet.
+
+## Positiva erfarenheter
+Blev klar med hela saken på en dag? och så har jag lärt mig lite mer om html, css (href)
+
+## Negativa erfarenheter
+Hur lite jag gjorde dem första lektionerna och att vi behövde arbeta I grupp för en så liten del av projectet jag tycker att det var väldigt onödig p.g.a. storleken av projectet och jag är irriterad att jag behöver använda röd och svart för en Covid Kampanj när jag tycker att blå och vit skulle passa mycket bättre
+
+## Sammanfattning
+Jag vet inte om jag skulle kunna säga att jag är nöjd med arbetet men det är bättre än ingenting, hela arbetet var bara irriterande men åtminstonde så är det faktiskt roligt att skriva HTML och CSS.
+
+Jag känner att det hade varit mycket bättre om färgerna var ljusare istället
+
+Jag lärde mig nya sätt att ändra a attributet och förstärkte några saker som jag redan visste som href och länk för webbplats icon
+
+Det borde vara ganska lätt att utveckla på projected eftersom jag lämnade 4 länker i footern som just nu inte leder någonstans
