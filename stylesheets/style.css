@@ -9,18 +9,17 @@ body {
 header {
   background-color: #AF171B;
   border-bottom: 1px solid #D0282B;
-  padding: 10px;
+  padding: 10px 0;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 main {
   background-color: #0B090A;
   padding: 1em;
   color: #E4E3E4;
-  font-size: 16px;
   margin: 0 auto;
-  width: 80%
+  width: 70%
 }
 
 div {
@@ -28,25 +27,51 @@ div {
   width: 90%;
 }
 
-
-
-
 h1, h2 {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 0.1rem;
+  margin-bottom: 0.4rem;
 }
 
 footer {
   background-color: #AF171B;
   border-top: 1px solid #D0282B;
-  height: 5em;
+  height: 8rem;
   
 }
 
 p {
   margin-top: 0.1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 2.5rem;
+  font-size: 18px;
+
 }
+
+ul {
+  display: flex;
+  justify-content: center;
+  padding-inline-start: 0;
+}
+
+li {
+  list-style: none;
+  text-align: center;
+  margin: 0 5px;
+}
+
+a:link, a:visited {
+  color:black;
+  background-color: #D0282B;
+  text-decoration: none;
+  padding: 10px 40px;
+  display: inline-block;
+}
+
+a:hover {
+  cursor: pointer;
+  background-color: rgb(141, 7, 7);
+  text-decoration: underline;
+}
+  
 
 .mt0 {
   margin-top: 0;
